@@ -1,5 +1,5 @@
 # firstrepo
 This is my first Git repository.
 <br>
-Author- Soni Kumari
+Author- Soni Singh
 
